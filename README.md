@@ -1,5 +1,4 @@
-# fft_invert
-## Fast Fourier transform weak lensing mass reconstruction
+# Fast Fourier transform weak lensing mass reconstruction
     
 The code implements the technique described in [Lombardi & Bertin (1999)](https://ui.adsabs.harvard.edu/abs/1999A%26A...348...38L/abstract)
 to invert weak lensing measurements into the dimensionless mass density, taking into account
